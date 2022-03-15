@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/922536831688531988.png" />
-<p align="center">
 <h1 align="center">A passionate CSS,LUA,JS</h3>
 
 
